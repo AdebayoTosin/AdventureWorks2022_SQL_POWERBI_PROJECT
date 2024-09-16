@@ -29,29 +29,29 @@ Problem Statement: The goal of the analysis is to:
 
 To answer solve the Above problems I have to write the queries that answer the following questions;
    1. RFM Analysis for Customer Segmentation
-      •	Recency: Calculate the number of days since the customer's last purchase.
-      •	Frequency: Count the total number of purchases made by each customer.
-      •	Monetary: Calculate the total monetary value of purchases made by each customer.
+      *	Recency: Calculate the number of days since the customer's last purchase.
+      *	Frequency: Count the total number of purchases made by each customer.
+      *	Monetary: Calculate the total monetary value of purchases made by each customer.
 2. Customer Retention Analysis
-      •	Churn Identification: Identify customers who haven't made a purchase in the last 6 months.
-      •	Purchase Frequency Decline: Detect customers with declining purchase frequency or monetary value.
-      •	Personalized Interventions: Propose personalized offers or interventions for at-risk customers.
+      *	Churn Identification: Identify customers who haven't made a purchase in the last 6 months.
+      *	Purchase Frequency Decline: Detect customers with declining purchase frequency or monetary value.
+      *	Personalized Interventions: Propose personalized offers or interventions for at-risk customers.
 4. Cross-Selling and Upselling Opportunities
-      •	Frequent Product Pairs: Use association rules to identify products frequently purchased together.
-      •	Complementary Product Recommendations: Recommend complementary products based on previous purchases.
-      •	High-Value Customers: Identify customers with recent high-value purchases for potential upsell opportunities.
+      *	Frequent Product Pairs: Use association rules to identify products frequently purchased together.
+      *	Complementary Product Recommendations: Recommend complementary products based on previous purchases.
+      *	High-Value Customers: Identify customers with recent high-value purchases for potential upsell opportunities.
 5. Marketing Campaign Optimization
-      •	Segment Prioritization: Determine which customer segments to target for specific campaigns.
-      •	Optimal Timing: Analyze the best timing for sending promotional offers based on purchase recency.
-      •	Effective Channels: Identify the most effective channels for different customer segments.
+      *	Segment Prioritization: Determine which customer segments to target for specific campaigns.
+      *	Optimal Timing: Analyze the best timing for sending promotional offers based on purchase recency.
+      *	Effective Channels: Identify the most effective channels for different customer segments.
 6. Inventory Management
-      •	Popular Products: Identify products popular among high-value customers.
-      •	Stock Availability: Ensure sufficient stock for high-demand products.
-      •	High-Sales Product Categories: Analyze product categories that consistently drive high sales.
+      *	Popular Products: Identify products popular among high-value customers.
+      *	Stock Availability: Ensure sufficient stock for high-demand products.
+      *	High-Sales Product Categories: Analyze product categories that consistently drive high sales.
 7. Customer Lifetime Value (CLV) Estimation
-      •	Average Purchase Value: Calculate the average monetary value of purchases per customer.
-      •	Repeat Purchase Frequency: Determine how often customers make repeat purchases.
-      •	CLV Prediction: Estimate the potential future revenue from each customer
+      *	Average Purchase Value: Calculate the average monetary value of purchases per customer.
+      *	Repeat Purchase Frequency: Determine how often customers make repeat purchases.
+      *	CLV Prediction: Estimate the potential future revenue from each customer
 
 
 
