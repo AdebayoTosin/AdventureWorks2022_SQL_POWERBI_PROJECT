@@ -46,6 +46,6 @@ You can find a link to get started with installation and restoration of the data
  * Creating of dashboards.
 
 ## SQL Scripting
-TO Answer the Problem statementt, i have to generate 12 different SQL querires. you can acess the full query scrpt here 
+TO Answer the Problem statementt, i have to generate 12 different SQL querires. You can see the full query script [here](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/SQLQuery1.sql)
 
 
