@@ -1,7 +1,7 @@
 # AdventureWorks2022_SQL_POWERBI_PROJECT
 
  ## PROJECT TITLE DETAILS:
-   *  Title: HOW TO INCREASE ENGAGEMENT AND FOLLLOWER ANALYSIS TIKTOK DATA
+   *  Title: AdventureWork2022 project using MySQL and PowerBI
    *  Author: Tosin Emmanuel
    *  Date: 2024-09-16
 
