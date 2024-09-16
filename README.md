@@ -78,16 +78,12 @@ TO Answer the Problem statementt, i have to generate 12 different SQL querires. 
 
 ## Data Visualization
 
-The report consists different charts that Answer the questions above, it consist of two different pages. you can have acess tot he dashboard here
-
-The Inventory Page
-The Product Page
-The Sales Page
-insight Page
-The report can be interacted with on the PowerBI service [here]
+The report consists different charts that Answer the questions above, it consist of two different pages. You can have acess to the dashboard [here](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/Adventurework2022_project.pbix)
 
 ![imge](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/Screenshot%202024-09-16%20025259.png)
 
 ![image](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/Screenshot%202024-09-16%20025345.png)
+
+## Insights And recommendations
 
 
