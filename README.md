@@ -8,7 +8,7 @@
 ## Project Description
 The aim of this project is to gain insights that address various business challenges, including customer segmentation, retention, cross-selling, upselling, marketing campaign optimization, inventory management, and customer lifetime value (CLV) estimation. This will be achieved using SQL and Power BI to explore and analyze the AdventureWorks2022 dataset.
 
-### DISCLAIMER: Disclaimer This is not a real company as we know that adventure works database is compiled by Microsoft for learning purposes.
+### DISCLAIMER: This is not a real company as we know that adventure works database is compiled by Microsoft for learning purposes.
 
 ## Problem Statement
 This is an Inventory Management analysis done with SQL and PowerBI, I analyzed Inventory data, production data and Sales data from the AdventureWorks 2019 database.
@@ -27,6 +27,23 @@ Problem Statement: The goal of the analysis is to:
 *  Customer Lifetime Value (CLV) Estimation:
     How can we predict the potential future value of our customers?
 
+
+  ## Data source
+  The data used for this work is obtained from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis.
+
+You can find a link to get started with installation and restoration of the database to your local machine. [here](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak)
+
+## Skills Demonstrated  
+
+* SQL (Structured Query Language)
+   * SELECT
+   * Tempoary Tables
+   * Creating subqueries
+   * Aliasing
+  
+*  PowerBI concepts like:
+ * Importing Direct queries from SQL into PowerBI
+ * Creating of dashboards.
 
 
 
