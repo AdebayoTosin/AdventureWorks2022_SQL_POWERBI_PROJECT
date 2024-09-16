@@ -76,10 +76,9 @@ You can find a link to get started with installation and restoration of the data
 TO Answer the Problem statementt, i have to generate 12 different SQL querires. You can see the full query script [here](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/SQLQuery1.sql)
 ![image](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/Screenshot%202024-09-16%20025817.png)
 
-
 ## Data Visualization
 
-The report consists different charts and KPI
+The report consists different charts that Answer the questions above, it consist of two different pages. you can have acess tot he dashboard here
 
 The Inventory Page
 The Product Page
