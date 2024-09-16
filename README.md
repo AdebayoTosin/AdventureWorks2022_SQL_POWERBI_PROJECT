@@ -84,6 +84,8 @@ The Inventory Page
 The Product Page
 The Sales Page
 insight Page
-The report can be interacted with on the PowerBI service here:
+The report can be interacted with on the PowerBI service here ![imge](https://github.com/AdebayoTosin/AdventureWorks2022_SQL_POWERBI_PROJECT/blob/main/Screenshot%202024-09-16%20025259.png)
+
+![image](
 
 
