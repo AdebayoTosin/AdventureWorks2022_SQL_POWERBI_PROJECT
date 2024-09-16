@@ -94,38 +94,39 @@ The report consists different charts that Answer the questions above, it consist
      personalized offers to bring them back into the purchasing cycle. Additionally, focus on retaining active customers through
      loyalty programs.
 
-2. **Future Revenue Potential**  
-   **Insight**: The future estimated revenue is projected to reach **$800 million**, suggesting significant growth opportunities.  
-   **Recommendation**: To achieve this target, businesses should invest in optimizing customer retention strategies and cross-selling or upselling initiatives to encourage more frequent and higher-value purchases from existing customers.
+* Future Revenue Potential
+   The future estimated revenue is projected to reach **$800 million**, suggesting significant growth opportunities.
+  
+   Recommendation: To achieve this target, we invest in optimizing customer retention by using cross-selling initiatives to encourage more frequent and higher-value purchases from existing customers.
 
-3. **Best Paired Products**  
-   **Insight**: Based on purchase history, the top product pairs frequently bought together are:  
-   - Product IDs **870 & 871**  
-   - Product IDs **870 & 872**  
-   - Product IDs **712 & 715**  
-   - Product IDs **712 & 870**  
-   - Product IDs **711 & 712**  
-   **Recommendation**: Use these product pairings to inform cross-selling and bundling strategies. Promote these pairs in marketing campaigns and create bundle deals to increase average transaction value and enhance customer satisfaction.
+* Best Paired Products 
+   Based on purchase history, this  are the top 5 product pairs frequently bought together:  
+   - Product IDs 870 & 871 
+   - Product IDs 870 & 872 
+   - Product IDs 712 & 715  
+   - Product IDs 712 & 870 
+   - Product IDs 711 & 712
+       
+   Recommendation: Use these product pairings to inform cross-selling and bundling strategies. Promote these pairs in marketing campaigns and create bundle deals to increase average transaction value.
 
-4. **Campaign Targeting for Low/Medium Purchase Customers**  
-   **Insight**: Customers with medium and low purchase frequency show potential for increased engagement.  
-   **Recommendation**: Design and execute frequent, high-impact campaigns targeted specifically at medium and low purchase customers. These campaigns should offer tailored incentives (e.g., discounts, exclusive offers) to encourage repeat purchases and drive higher lifetime value.
+* Campaign Targeting for Low/Medium Purchase Customers
+    
+   Customers with medium and low purchase frequency show potential for increased engagement.
+  
+   Recommendation: Design and execute frequent, high-impact campaigns targeted specifically at medium and low purchase
+  customers. These campaigns should offer tailored incentives such as discounts, exclusive offers to encourage repeat purchases     and drive higher lifetime value.
 
-5. **Highest Purchased Product**  
-   **Insight**: The most purchased product is **Product ID 712**, which has generated **$50 million** in revenue.  
-   **Recommendation**: Given the popularity of Product ID 712, prioritize it in marketing efforts and inventory management to ensure sufficient stock. Additionally, explore opportunities to cross-promote this product with other high-demand items.
+* Highest Purchased Product 
+   The most purchased product is **Product ID 712**, which has generated **$50 million** in revenue.  
+   Recommendation: Given the popularity of Product ID 712, prioritize it in marketing efforts and inventory management to ensure sufficient stock. Additionally, explore opportunities to cross-promote this product with other high-demand items.
 
-6. **Top 5 Frequently Purchased Products**  
-   **Insight**: The top 5 most frequently purchased products are:  
-   - **Product ID 864**  
-   - **Product ID 884**  
-   - **Product ID 712**  
-   - **Product ID 876**  
-   - **Product ID 715**  
-   **Recommendation**: Focus inventory planning, promotions, and marketing around these top-performing products. Ensuring availability and continuing to drive awareness for these products will maximize sales and customer satisfaction.
-
----
-
-These insights and recommendations, derived from your analysis of the **AdventureWorks2022** dataset, should help in addressing key business challenges related to customer engagement, product optimization, and revenue growth.\'
-
+* Top 5 Frequently Purchased Products 
+   The top 5 most frequently purchased products are:  
+   - Product ID 864 
+   - Product ID 884 
+   - Product ID 712  
+   - Product ID 876 
+   - Product ID 715
+     
+   Recommendation: Focus inventory planning, promotions, and marketing for these products will maximize sales and customer satisfaction.
 
