@@ -45,5 +45,7 @@ You can find a link to get started with installation and restoration of the data
  * Importing Direct queries from SQL into PowerBI
  * Creating of dashboards.
 
+## SQL Scripting
+TO Answer the Problem statementt, i have to generate 12 different SQL querires. you can acess the full query scrpt here 
 
 
